@@ -1,7 +1,7 @@
 package com.example.mynewapp;
 
 public class ModelClass {
-    String fruitName,fruitnum;
+    String fruitName,fruitNum;
     int img;
 
     public String getFruitName() {
@@ -12,12 +12,13 @@ public class ModelClass {
         this.fruitName = fruitName;
     }
 
-    public String getFruitnum() {
-        return fruitnum;
+
+    public String getFruitNum() {
+        return fruitNum;
     }
 
-    public void setFruitnum(String fruitnum) {
-        this.fruitnum = fruitnum;
+    public void setFruitNum(String fruitNum) {
+        this.fruitNum = fruitNum;
     }
 
     public int getImg() {

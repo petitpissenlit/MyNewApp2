@@ -5,6 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
+    
+
 
     <TextView
         android:id="@+id/banner"
@@ -12,7 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="36dp"
         android:fontFamily="sans-serif-condensed"
-        android:text="Nrj Solutions"
+        android:text="Haze Solutions"
         android:textAlignment="center"
         android:textSize="60sp"
         android:textStyle="bold"
@@ -27,7 +29,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
         android:layout_marginEnd="41dp"
-        android:text="Your app"
+        android:text="Your happiness 4 smoke"
         android:textAlignment="center"
         android:textSize="18sp"
         android:textStyle="italic"
